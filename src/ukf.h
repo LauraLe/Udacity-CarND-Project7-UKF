@@ -32,7 +32,7 @@ private:
      ****************************************************************************/
     MatrixXd PredictSigmaPoints(MatrixXd Xsig, double delta_t, int n_x, int n_sig, double nu_am, double nu_yawdd);
     
-    void NormalizeAngle(VectorXd vector, int angleIdx);
+    VectorXd NormalizeAngle(VectorXd vector, int angleIdx);
     
 public:
 
