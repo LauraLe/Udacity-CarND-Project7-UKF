@@ -31,7 +31,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "307"
             endingLineNumber = "307"
-            landmarkName = "UKF::UpdateLidar(MeasurementPackage meas_package)"
+            landmarkName = "UKF::UpdateRadar(MeasurementPackage meas_package)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -47,7 +47,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "341"
             endingLineNumber = "341"
-            landmarkName = "UKF::UpdateLidar(MeasurementPackage meas_package)"
+            landmarkName = "UKF::UpdateRadar(MeasurementPackage meas_package)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -62,9 +62,7 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "290"
-            endingLineNumber = "290"
-            landmarkName = "UKF::UpdateLidar(MeasurementPackage meas_package)"
-            landmarkType = "7">
+            endingLineNumber = "290">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
